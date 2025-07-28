@@ -54,7 +54,7 @@ y = n(x)
 dot = draw_dot(y)
 ```
 
-![2d neuron](moon_mlp)
+![2d neuron](mlp_graph.svg)
 
 ### Running tests
 
